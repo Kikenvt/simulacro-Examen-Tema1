@@ -1,0 +1,29 @@
+*{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body{
+    text-align: center;
+    justify-content: center;
+}
+
+input{
+    margin-bottom: 10px;
+}
+
+button{
+    background-color: blue;
+    color: white;
+    border: none;
+    padding: 7px;
+    cursor: pointer;
+}
+
+button:hover{
+    background-color:rgb(64, 64, 225);
+}
+
+#resultArea, #resultPerimeter{
+    font-family:  Tahoma;
+    margin: 10px;
+}
